@@ -6,11 +6,11 @@ Implementar um `CRUD` em FastAPI.
 
 | Letra | Descrição | Implementado |
 | --- | --- | --- |
-| C | Create | [x] |
-| R | Read (All) | [x] |
-| R | Read (id_users) | [] |
-| U | Update | [] |
-| D | Delete | [] |
+| C | Create | :heavy_check_mark: |
+| R | Read (All) | :heavy_check_mark: |
+| R | Read (id_users) | :white_check_mark: |
+| U | Update | :white_check_mark: |
+| D | Delete | :white_check_mark: |
 
 ## Comandos Úteis
 
